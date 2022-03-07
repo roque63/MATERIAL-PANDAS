@@ -1,0 +1,36 @@
+"Time to Work ID","Time to Work","Work Mean ID","Work Mean","Population","Share"
+10,"Hasta 15 minutos",1,"Camión, taxi, combi o colectivo",55160,0.1415168160255736
+10,"Hasta 15 minutos",2,"Metro, metrobús o tren ligero",860,0.002206389807505317
+10,"Hasta 15 minutos",3,"Vehículo particular (automóvil, camioneta o motocicleta)",190703,0.48926180867521685
+10,"Hasta 15 minutos",4,"Transporte laboral",17840,0.04576976065801728
+10,"Hasta 15 minutos",5,"Bicicleta",12436,0.03190542284434433
+10,"Hasta 15 minutos",6,"Caminando",110144,0.2825820918114717
+10,"Hasta 15 minutos",7,"Otro",2634,0.006757710177870937
+20,"16 a 30 minutos",1,"Camión, taxi, combi o colectivo",175608,0.3258934287957153
+20,"16 a 30 minutos",2,"Metro, metrobús o tren ligero",6682,0.012400459496224373
+20,"16 a 30 minutos",3,"Vehículo particular (automóvil, camioneta o motocicleta)",247360,0.45905083223377147
+20,"16 a 30 minutos",4,"Transporte laboral",55115,0.10228244913714551
+20,"16 a 30 minutos",5,"Bicicleta",13004,0.024132830782535433
+20,"16 a 30 minutos",6,"Caminando",37351,0.06931600757908958
+20,"16 a 30 minutos",7,"Otro",3731,0.006923991975518279
+30,"31 minutos a 1 hora",1,"Camión, taxi, combi o colectivo",266186,0.4742709615806063
+30,"31 minutos a 1 hora",2,"Metro, metrobús o tren ligero",15862,0.02826176430237344
+30,"31 minutos a 1 hora",3,"Vehículo particular (automóvil, camioneta o motocicleta)",205584,0.366294701320082
+30,"31 minutos a 1 hora",4,"Transporte laboral",59402,0.10583818705646117
+30,"31 minutos a 1 hora",5,"Bicicleta",3784,0.006742057503478823
+30,"31 minutos a 1 hora",6,"Caminando",7124,0.012693027921454318
+30,"31 minutos a 1 hora",7,"Otro",3311,0.00589930031554397
+40,"Más de 1 hora y hasta 2",1,"Camión, taxi, combi o colectivo",154097,0.6874052067162715
+40,"Más de 1 hora y hasta 2",2,"Metro, metrobús o tren ligero",6363,0.028384454793640598
+40,"Más de 1 hora y hasta 2",3,"Vehículo particular (automóvil, camioneta o motocicleta)",41787,0.1864059739842621
+40,"Más de 1 hora y hasta 2",4,"Transporte laboral",18808,0.08389986260549935
+40,"Más de 1 hora y hasta 2",5,"Bicicleta",571,0.002547151294541691
+40,"Más de 1 hora y hasta 2",6,"Caminando",1311,0.005848187998501151
+40,"Más de 1 hora y hasta 2",7,"Otro",1235,0.005509162607283693
+50,"Más de 2 horas",1,"Camión, taxi, combi o colectivo",23573,0.7648356639953279
+50,"Más de 2 horas",2,"Metro, metrobús o tren ligero",360,0.011680347814801597
+50,"Más de 2 horas",3,"Vehículo particular (automóvil, camioneta o motocicleta)",3918,0.1271211187177574
+50,"Más de 2 horas",4,"Transporte laboral",2021,0.0655721748158723
+50,"Más de 2 horas",5,"Bicicleta",96,0.003114759417280426
+50,"Más de 2 horas",6,"Caminando",364,0.011810129457188281
+50,"Más de 2 horas",7,"Otro",489,0.015865805781772168
